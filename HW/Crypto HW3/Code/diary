@@ -1,0 +1,5 @@
+diary('Problem1.txt')
+diary(Problem2new.txt)
+{Undefined variable "Problem2new" or class "Problem2new.txt".
+} 
+diary('Problem2new.txt')

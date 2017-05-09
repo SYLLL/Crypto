@@ -1,0 +1,82 @@
+extendedeuclid(2501,1002)
+
+ans =
+
+     1
+   125
+  -312
+
+extendedeuclid(5,2)
+
+ans =
+
+     1
+     1
+    -2
+
+extendedeuclid(16,4)
+
+ans =
+
+     4
+     0
+     1
+
+extendedeuclid(240,46)
+
+ans =
+
+     2
+    -9
+    47
+
+extendedeuclid(240,1)
+
+ans =
+
+     1
+     0
+     1
+
+extendedeuclid(240,60)
+
+ans =
+
+    60
+     0
+     1
+
+extendedeuclid(60,60)
+
+ans =
+
+    60
+     0
+     1
+
+extendedeuclid(60,240)
+
+ans =
+
+    60
+     0
+     1
+
+extendedeuclid(240,60)
+
+ans =
+
+    60
+     0
+     1
+
+extendedeuclid(2501,1002)
+
+ans =
+
+     1
+   125
+  -312
+
+diary off
+diary('Problem2.txt')

@@ -1,0 +1,68 @@
+fastexp(5,17,2631)
+
+ans =
+
+    10
+
+fastexp(5,17,1)
+
+ans =
+
+     5
+
+fastexp(5,17,2)
+
+ans =
+
+     8
+
+fastexp(5,17,4)
+
+ans =
+
+    13
+
+fastexp(5,17,8)
+
+ans =
+
+    16
+
+fastexp(5,17,7749)
+
+ans =
+
+    14
+
+fastexp(12,17,7749)
+
+ans =
+
+     3
+
+fastexp(15,17,1000)
+
+ans =
+
+     1
+
+fastexp(1,17,1000)
+
+ans =
+
+     1
+
+fastexp(1,17,1318)
+
+ans =
+
+     1
+
+fastexp(9,17,1318)
+
+ans =
+
+     4
+
+diary off
+

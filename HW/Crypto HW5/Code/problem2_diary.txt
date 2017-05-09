@@ -1,0 +1,37 @@
+>> probability(100,100)
+
+ans =
+
+    0.6000
+
+>> probability(1000,1000)
+
+ans =
+
+    0.6360
+
+>> probability(1000,10000)
+
+ans =
+
+    0.6087
+ 
+>> probability(10000000,10000000)
+
+ans =
+
+    0.6078
+
+>> rho(100)
+
+ans =
+
+    0.6090
+
+>> rho(10000)
+
+ans =
+
+    0.6079
+
+diary off

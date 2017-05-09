@@ -1,0 +1,83 @@
+p2cipher = 'cowcbfxiviagwiuxivixcdcbscbfxofrgbsrcafgnscttivcax'
+
+p2cipher =
+
+cowcbfxiviagwiuxivixcdcbscbfxofrgbsrcafgnscttivcax
+
+p2cipherd = p2cipher - 97
+
+p2cipherd =
+
+  Columns 1 through 19
+
+     2    14    22     2     1     5    23     8    21     8     0     6    22     8    20    23     8    21     8
+
+  Columns 20 through 38
+
+    23     2     3     2     1    18     2     1     5    23    14     5    17     6     1    18    17     2     0
+
+  Columns 39 through 50
+
+     5     6    13    18     2    19    19     8    21     2     0    23
+
+temp=[]
+
+temp =
+
+     []
+
+for b=0:25
+      for inva=0:25
+          p2eve=mod(inva*(p2cipherd-b),26);
+          temp=[temp; char(p2eve+97)];
+      end
+end
+temp
+
+temp =
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cowcbfxiviagwiuxivixcdcbscbfxofrgbsrcafgnscttivcax
+ecseckuqqqamsqouqqquegeckeckuckimckieakmakemmqqeau
+gqogdprylyasoyirylyrgjgdcgdprqpzsdczgapsncgffylgar
+iekieuogggaykgcogggoimieuieuoeuqyeuqiauyauiyyggiao
+ksgkfzloboaegowlobolkpkfmkfzlszhefmhkazenmkrrobkal
+iamiagueeesomewueeeuiqiagiaguagyoagyisgosgiooeeisu
+wauwnxdylyeguycdylydwfwnkwnxdaxbgnkbwexgrkwttylwed
+kackaomsssqycsimsssmkukaokaomaoeyaoekqoyqokyysskqm
+yakynfvmzmcqkmovmzmvyjynsynfvafhqnshycfqpsyddmzycv
+masmawegggoisguegggemymawmaweawkiawkmowiowmiiggmoe
+aaaannnanaaaaaanananananaannnannananaananaannanaan
+oaioaewuuumsiugwuuuwocoaeoaewaeqsaeqomesmeossuuomw
+caqcnvfoboykqomfobofcrcnicnvfavtknitcyvklicxxobcyf
+qayqamoiiikcyisoiiioqgqamqamoamwcamwqkmckmqcciiqko
+eagendxcpcwugcyxcpcxevenqendxadzunqzewdujqehhcpewx
+saosaugwwwimowegwwwgsksausaugaucmaucsiumiusmmwwsig
+gawgnlpqdquewqkpqdqpgzgnygnlpalfenyfgulehygrrqdgup
+uaeuacykkkgwekqykkkyuouacuacyaciwaciugcwgcuwwkkugy
+iamintheresomewherehidinginthatlonglistofgibberish
+wauwakqyyyeguycqyyyqwswakwakqakogakowekgekwggyyweq
+kacknbzsfsqycsizsfszkhknoknbzabrynorkqbydokllsfkqz
+yakyasimmmcqkmoimmmiywyasyasiasuqasuycsqcsyqqmmyci
+masmnjrgtgoisgurgtgrmlmnwmnjrajxinwxmojibwmvvgtmor
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+nzhnmqitgtlrhtfitgtinonmdnmqizqcrmdcnlqrydneetgnli
+ayoaygqmmmwiomkqmmmqacaygaygqygeiygeawgiwgaiimmawq
+nxvnkwyfsfhzvfpyfsfynqnkjnkwyxwgzkjgnhwzujnmmfsnhy
+awcawmgyyysqcyugyyygaeawmawmgwmiqwmiasmqsmaqqyyasg
+nvjnicorerdhjrzoreronsnipnicovckhipkndchqpnuurendo
+auqauswkkkoyqkewkkkwagausauswusmyusmaosyosayykkaow
+ntxngiedqdzpxdjedqdenungvngietiopgvonzipmvnccdqnze
+aseasymwwwkgewomwwwmaiasyasymsyqgsyqakygkyaggwwakm
+nrlneoupcpvxlptupcpunwnebneourosxebsnvoxibnkkpcnvu
+aqsaqeciiigosiyciiicakaqeaqecqeuoqeuageogeaooiiagc
+npzncukbobrfzbdkbobknynchncukpuwfchwnrufehnssbonrk
+aogaoksuuucwguisuuusamaokaoksokywokyackwckawwuuacs
+nnnnaaanannnnnnananananannaaanaananannanannaananna
+amuamqigggyeugsigggiaoamqamqimqcemqcayqeyqaeeggayi
+nlbnygqzmzjvbzxqzmzqncnytnygqlgevytenjgvwtniizmnjq
+akiakwysssumiscysssyaqakwakwykwgmkwgauwmuwammssauy
+njpnwmglylfdplhglylgnenwznwmgjmidwzinfmdsznqqlynfg
+aiwaicoeeequwemoeeeoasaicaicoickuickaqcuqcauueeaqo
+nhdnuswxkxbldxrwxkxwngnufnuswhsmlufmnbslofnyyxknbw
+agkagieqqqmckqweqqqeauagiagiegiocgioamicmiaccqqame

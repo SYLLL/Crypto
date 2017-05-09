@@ -1,0 +1,44 @@
+inverse(3,20)
+
+ans =
+
+     7
+
+inverse(0,20)
+
+ans =
+
+     0
+
+inverse(3,20)
+
+ans =
+
+     7
+
+inverse(0,20)
+
+ans =
+
+a or n cannot be 0, not invertible!
+
+inverse(5,20)
+
+ans =
+
+     1
+
+inverse(5,20)
+
+ans =
+
+a is not invertible!
+
+inverse(0,20)
+{Undefined function or variable 'b'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('inverse', '/Users/Suyi/Desktop/Crypto/HW/Crypto HW3/HW3/inverse.m', 13)" style="font-weight:bold">inverse</a> (<a href="matlab: opentoline('/Users/Suyi/Desktop/Crypto/HW/Crypto HW3/HW3/inverse.m',13,0)">line 13</a>)
+if temp(1) == a || temp(1) == b
+} 
+diary off
+diary('Problem2real.txt')

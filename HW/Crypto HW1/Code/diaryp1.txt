@@ -1,0 +1,49 @@
+>> p1cipher = 'sdgyevnlocydowzdsxqdytecdgbsdomkxiyerokbwoxyg'
+
+p1cipher =
+
+sdgyevnlocydowzdsxqdytecdgbsdomkxiyerokbwoxyg
+
+
+>> for i=0:25
+   end
+>> temp = []
+
+temp =
+
+     []
+
+>> for i=0:25
+      p1eve=mod(p1cipher-i,26);
+      temp=[temp; char(p1eve+97)];
+   end
+>> temp
+
+temp =
+
+lwzrxogehvrwhpswlqjwrmxvwzulwhfdqbrxkhduphqrz
+kvyqwnfdguqvgorvkpivqlwuvytkvgecpaqwjgctogpqy
+juxpvmecftpufnqujohupkvtuxsjufdbozpvifbsnfopx
+itwouldbesotemptingtojustwritecanyouhearmenow
+hsvntkcadrnsdloshmfsnitrsvqhsdbzmxntgdzqldmnv
+grumsjbzcqmrcknrglermhsqrupgrcaylwmsfcypkclmu
+fqtlriaybplqbjmqfkdqlgrpqtofqbzxkvlrebxojbklt
+epskqhzxaokpailpejcpkfqopsnepaywjukqdawniajks
+dorjpgywznjozhkodibojepnormdozxvitjpczvmhzijr
+cnqiofxvyminygjnchanidomnqlcnywuhsiobyulgyhiq
+bmphnewuxlhmxfimbgzmhcnlmpkbmxvtgrhnaxtkfxghp
+alogmdvtwkglwehlafylgbmklojalwusfqgmzwsjewfgo
+zknflcusvjfkvdgkzexkfaljknizkvtrepflyvridvefn
+yjmekbtruiejucfjydwjezkijmhyjusqdoekxuqhcudem
+xildjasqthditbeixcvidyjhilgxitrpcndjwtpgbtcdl
+whkcizrpsgchsadhwbuhcxighkfwhsqobmcivsofasbck
+vgjbhyqorfbgrzcgvatgbwhfgjevgrpnalbhurnezrabj
+ufiagxpnqeafqybfuzsfavgefidufqomzkagtqmdyqzai
+tehzfwompdzepxaetyrezufdehctepnlyjzfsplcxpyzh
+sdgyevnlocydowzdsxqdytecdgbsdomkxiyerokbwoxyg
+rcfxdumknbxcnvycrwpcxsdbcfarcnljwhxdqnjavnwxf
+qbewctljmawbmuxbqvobwrcabezqbmkivgwcpmizumvwe
+padvbskilzvaltwapunavqbzadypaljhufvbolhytluvd
+ozcuarjhkyuzksvzotmzupayzcxozkigteuankgxsktuc
+nybtzqigjxtyjruynslytozxybwnyjhfsdtzmjfwrjstb
+mxasyphfiwsxiqtxmrkxsnywxavmxigercsylievqirsa

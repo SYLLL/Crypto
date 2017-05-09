@@ -1,0 +1,49 @@
+inverse(3,20)
+
+ans =
+
+     7
+
+inverse(1002,2501)
+
+ans =
+
+        2189
+
+mod(1002*2189,2501)
+
+ans =
+
+     1
+
+inverse(4,27)
+
+ans =
+
+     7
+
+inverse(6,7)
+
+ans =
+
+     6
+
+inverse(4,5)
+
+ans =
+
+     4
+
+inverse(47,869)
+
+ans =
+
+    37
+
+mod(47*37,869)
+
+ans =
+
+     1
+
+diary off

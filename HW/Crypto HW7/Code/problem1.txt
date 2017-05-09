@@ -1,0 +1,13 @@
+temp = expofact(2,341466300,68309797)
+
+temp =
+
+        8527        8011
+
+temp = expofact(5,341466300,68309797)
+
+temp =
+
+        8011        8527
+
+diary off
